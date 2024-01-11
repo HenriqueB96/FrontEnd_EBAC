@@ -1,3 +1,2 @@
-# FrontEnd_EBAC
-
-## Repositório para aulas e exercicios da EBAC
+### Treinando e aprendendo:
+Importação de arquivos, funções, Operadores Matemáticos, herança, MIXINS, aninhamento de regras e Variáveis.
