@@ -1,0 +1,22 @@
+@use 'config/reset.scss';
+@use 'section/produtos.scss';
+@use 'header/menu.scss';
+@use 'config/cores.scss';
+@use 'mediaQuery/responsividade.scss';
+
+
+body {
+    background-color: cores.$bodyColor;
+}
+
+li {
+    list-style: none;
+}
+
+.container {
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+/*# sourceMappingURL=style.css.map */
