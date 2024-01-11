@@ -1,3 +1,1 @@
-# FrontEnd_EBAC
-
-## Repositório para aulas e exercicios da EBAC
+### Treinando e utilizando CSS puro.
